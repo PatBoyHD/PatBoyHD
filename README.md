@@ -2,14 +2,14 @@
 
 - currently learning C# in technical secondary school
 - recently picked up java in form of Minecraft Plugins
-<!--
+
 <p align="left">
 <a href="https://github.com/PatBoyHD" target="blank"><img align="center" src="https://github.com/PatBoyHD/PatBoyHD/blob/main/icons/csharp.svg" title = "C#" alt="" height="30" /></a>
 <a href="https://github.com/PatBoyHD" target="blank"><img align="center" src="https://github.com/PatBoyHD/PatBoyHD/blob/main/icons/python.svg" alt="" height="30" /></a>
 <a href="https://github.com/PatBoyHD" target="blank"><img align="center" src="https://github.com/PatBoyHD/PatBoyHD/blob/main/icons/cplusplus.svg" alt="" height="30" /></a>
 <a href="https://github.com/PatBoyHD" target="blank"><img align="center" src="https://github.com/PatBoyHD/PatBoyHD/blob/main/icons/arduino.svg" alt="" height="30" /></a>
 </p>
--->
+
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
