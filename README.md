@@ -1,9 +1,9 @@
 # Pat
 
 - Student at a technical secondary school
-- learning C#
 - recently picked up java in form of Minecraft Plugins
-- beginners knowledge in C++, Python, Arduino 
+- beginners knowledge in C++, Arduino 
+- lightly advanced knowledge of C# and Python
 
 <p align="left">
 <a href="https://github.com/PatBoyHD" target="blank"><img align="center" src="https://github.com/PatBoyHD/PatBoyHD/blob/main/icons/csharp.svg" title = "C#" alt="" height="30" /></a>
