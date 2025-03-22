@@ -1,8 +1,7 @@
 # Pat
 
 - Student at a university for applied sciences
-- recently picked up VHDL
-- Intermediate to advanced knowledge in C, C#, C++, Java, Python, Arduino
+- Intermediate to advanced knowledge in VHDL, C, C#, C++, Java, Python, Arduino
 - mostly self taught
 
 <p align="left">
